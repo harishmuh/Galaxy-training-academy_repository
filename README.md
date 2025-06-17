@@ -9,6 +9,7 @@ This repository contains my completed work from the [Galaxy Training Academy](ht
 ## **Contents**
 * DNA sequence QC filtering of Staphylococcus Mutant [Open analysis](https://usegalaxy.eu/u/harish_muh12/h/my-analysis)
 * Data Science Python - fundamental course → [Open notebook](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Notebooks/data-science-python-basics-course.ipynb)
+* Intro to SQL (Using SQLAlchemy) → [Open notebook](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Notebooks/data-science-sql-basic.ipynb)
 * Machine learning (Classification of biodegradable compounds) → [Open repository](https://github.com/harishmuh/Biodegradarable-molecules_classification_Galaxy/tree/main)
 * Machine learning (Regression)  → [Open repository]()
 
