@@ -1,1 +1,1 @@
-**This folder contains documentations of the work for this repository.**
+**This folder contains documentation of the work for this Galaxy training repository.**
