@@ -10,7 +10,7 @@ This repository contains my completed work from the [Galaxy Training Academy](ht
 * DNA sequence QC filtering of Staphylococcus Mutant → [Open analysis](https://usegalaxy.eu/u/harish_muh12/h/my-analysis)
 * Data Science Python - fundamental course → [Open notebook](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Notebooks/data-science-python-basics-course.ipynb)
 * Intro to SQL (Using SQLAlchemy) → [Open notebook](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Notebooks/data-science-sql-basic.ipynb)
-* Machine learning Intro in Galaxy (Classification of Breast Cancer) → [Open analysis](https://usegalaxy.eu/u/harish_muh12/w/workflow-constructed-from-history-machine-learningintrobreast-cancer) | [Workflow diagram](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Documentations/Breast%20Cancer%20Classification_Workflow.PNG?raw=true) 
+* Machine learning Intro in Galaxy (Classification of Breast Cancer) → [Open repository](https://github.com/harishmuh/Intro-to-ML-using-Galaxy_Breast-cancer-dataset/blob/main/README.md)
 * Machine learning (Classification of biodegradable compounds) using Galaxy → [Open repository](https://github.com/harishmuh/Biodegradarable-molecules_classification_Galaxy/tree/main)
 * Machine learning (Regression) using Galaxy → [Open repository]()
 
