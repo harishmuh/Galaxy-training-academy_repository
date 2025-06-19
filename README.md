@@ -12,7 +12,7 @@ This repository contains my completed work from the [Galaxy Training Academy](ht
 * Intro to SQL (Using SQLAlchemy) → [Open notebook](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Notebooks/data-science-sql-basic.ipynb)
 * Machine learning Intro in Galaxy (Classification of Breast Cancer) → [Open analysis](https://usegalaxy.eu/u/harish_muh12/w/workflow-constructed-from-history-machine-learningintrobreast-cancer) | [Workflow diagram](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Documentations/Breast%20Cancer%20Classification_Workflow.PNG?raw=true) 
 * Machine learning (Classification of biodegradable compounds) using Galaxy → [Open repository](https://github.com/harishmuh/Biodegradarable-molecules_classification_Galaxy/tree/main)
-* Machine learning (Regression) using Galaxy  → [Open repository]()
+* Machine learning (Regression) using Galaxy → [Open repository]()
 
 For the completed tutorials, you may find:
 * My analysis in the Galaxy software
@@ -31,12 +31,13 @@ To explore my work:
 
 ## **[About Galaxy Training Academy](https://training.galaxyproject.org/training-material/about.html)**
 
-The Galaxy Training Academy provides open, community-driven training for data-intensive biology. Their materials cover:
+The Galaxy Training Academy provides open, community-driven training for data-intensive biomedics/bioinformatics/biology. Their materials cover:
 
 * Fundamental bioinformatics concepts
 * Galaxy platform usage
 * Various 'omics' technologies
 * Data analysis workflows
+* Machine learning applications
 
 ## **License**
 All original Galaxy Training Materials are licensed under Creative Commons Attribution 4.0.
