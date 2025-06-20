@@ -12,7 +12,7 @@ This repository contains my completed work from the [Galaxy Training Academy](ht
 * Intro to SQL (Using SQLAlchemy) → [Open notebook](https://github.com/harishmuh/Galaxy-training-academy_repository/blob/main/Notebooks/data-science-sql-basic.ipynb)
 * Machine learning Intro in Galaxy (Classification of Breast Cancer) → [Open repository](https://github.com/harishmuh/Intro-to-ML-using-Galaxy_Breast-cancer-dataset/blob/main/README.md)
 * Machine learning (Classification of biodegradable compounds) using Galaxy → [Open repository](https://github.com/harishmuh/Biodegradarable-molecules_classification_Galaxy/tree/main)
-* Machine learning (Regression) using Galaxy → [Open repository]()
+* Machine learning (Regression) using Galaxy → [Open repository](https://github.com/harishmuh/Regression_Machine-Learning-Galaxy/blob/main/README.md)
 
 For the completed tutorials, you may find:
 * My analysis in the Galaxy software
